@@ -1,2 +1,3 @@
 # hello-world
-ideas and plans
+ideas and plans for today
+wow wow
